@@ -1,6 +1,6 @@
 {
-	"author": "Yifeng Li",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Yifeng Li",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
